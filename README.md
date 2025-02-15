@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell programming: neglecting to handle the `Nothing` case when pattern matching on a `Maybe` type. The `bug.hs` file contains the erroneous code, which will throw an exception if the input is `Nothing`. The `bugSolution.hs` file provides the corrected code.
